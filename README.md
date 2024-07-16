@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zslaszlo
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m collaborating on Publii localisation https://github.com/zslaszlo/Publii-ui-locales
 - 📫 How to reach me 
 
 <!---
